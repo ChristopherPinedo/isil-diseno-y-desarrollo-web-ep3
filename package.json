@@ -11,6 +11,7 @@
     "lint-fix": "standard --fix"
   },
   "devDependencies": {
+    "sass": "^1.80.7",
     "standard": "^17.1.2",
     "vite": "^5.4.10"
   }
